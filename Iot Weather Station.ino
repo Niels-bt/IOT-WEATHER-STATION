@@ -12,6 +12,8 @@
 // trouver bug affichage eau
 // gerer watchdog
 // service NTP
+// Ajouter un écran serial 
+
 
 // managed URLS
 // Board NodeMCU 0.9 -12MODULE
