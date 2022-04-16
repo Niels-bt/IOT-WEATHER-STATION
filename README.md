@@ -15,7 +15,14 @@ Les composants utilises sont
 -une sonde de température immersible pour avoir la température de l'eau 
 -une sonde DHT 22 qui elle permet de capter la température ainsi que l'humiditée présente das l'air
 
+Version nr1 du PCB
+![ESP8266 3](https://user-images.githubusercontent.com/100481752/163677831-deb55a67-20fb-49ff-9623-dbc3a40bbcfd.jpg)
 
-Hardware picture 
+Version nr2 actuelle du PCB
 
-Website
+![ESP8266 4](https://user-images.githubusercontent.com/100481752/163677942-a786b236-a562-4644-92dd-3f422a5d41e4.jpg)
+
+
+Site Internet nr4
+![ESP8266 2](https://user-images.githubusercontent.com/100481752/163677844-519bb92c-438b-40aa-b267-ea73e048722a.png)
+
