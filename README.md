@@ -22,7 +22,7 @@ Les composants utilises sont
 -2 panneaux solaires ainsi qu'une batterie lipo 3.33V
 
 ### **Version nr1 du PCB**
----------------------------
+==============================
 
 ![Version nr 1 petit](https://user-images.githubusercontent.com/100481752/164914854-03cd3560-35c2-4889-9d1a-6df03ef7ed36.jpg)
 
