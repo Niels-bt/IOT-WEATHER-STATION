@@ -1,8 +1,8 @@
-# IOT-WEATHER-STATION
+# IOT-Weather-Station 
 IOT WEATHER STATION
 Projet realise par Niels.
 
-Le composant principal utilise dans ce projet est l'esp 8266: 
+Le composant principal utilise dans ce projet est l'esp 8266:                                                     
 Voici son schématique et la configuration utilisé
 
 ![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
@@ -27,15 +27,15 @@ Les composants utilisés sont
 
 ![Version nr 1 petit](https://user-images.githubusercontent.com/100481752/164914854-03cd3560-35c2-4889-9d1a-6df03ef7ed36.jpg)
 
-### <ins> Version nr2 actuelle du PCB</ins> : 
+### <ins> Version nr2 actuelle du PCB :</ins>  
 
 ![Version nr 2 petit](https://user-images.githubusercontent.com/100481752/164914864-561802e5-a83b-4984-b4ef-683b4d0e7c1b.jpg)
 
-### <ins>Le tout assemble</ins> :
+### <ins>Le tout assemble :</ins> 
 
 ![Montage complet](https://user-images.githubusercontent.com/100481752/164914679-70ed3c28-faa0-4327-bbeb-ed4bfe7086b9.jpg)
 
-### <ins>La station meteo dans son milieu naturel</ins> :
+### <ins>La station meteo dans son milieu naturel :</ins>
 
 ![Dehors petit](https://user-images.githubusercontent.com/100481752/164914614-a89cea1f-6970-45ec-8343-6f6a54fde1cf.jpg)
 
