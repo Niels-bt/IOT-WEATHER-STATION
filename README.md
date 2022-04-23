@@ -40,5 +40,8 @@ La station meteo dans son milieu naturel
 
 
 Site Internet nr4
+Ce site est la version nr4 tu site internet de l'IoT. On remarque une echelle de temperature pour symboliser du froid au chaud.
+On retrouve egalement la temperature eterieur ainsi que de l'humidite. On pourrait donc peut etre y ajoouter un ecart relatif. Ceci pourrait a l'aide du stockage de donnes predire la temperature en fonction des temperatures eterieures. Pour finir on a deu boutons pour allumer et forcer le pompage ainsi que l'allumage des lumieres exterieures. 
+
 ![ESP8266 2](https://user-images.githubusercontent.com/100481752/163677844-519bb92c-438b-40aa-b267-ea73e048722a.png)
 
