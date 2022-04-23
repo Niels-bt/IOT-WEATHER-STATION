@@ -7,6 +7,7 @@ Voici son schématique et la configuration utilisé
 
 ![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
 
+# Le projet:
 Ce projet consiste à l'aide d'un microcontrôleur du type esp8266 et de l'éditeur Arduino de faire une station météo connectée.
 L'esp8266 a été choisi pour son nombre d'outputs pins et son analog pin afin de pouvoir y connecter des capteurs analogiques tels que la résistance lumineuse qui y est présente.
 Un contrôleur de charge lipo a été ajouté afin de pouvoir rendre le système totalement autonome sans le besoin d'avoir à tirer un câble.
@@ -26,20 +27,17 @@ Les composants utilisés sont
 
 ![Version nr 1 petit](https://user-images.githubusercontent.com/100481752/164914854-03cd3560-35c2-4889-9d1a-6df03ef7ed36.jpg)
 
-### **Version nr2 actuelle du PCB :**
+### <ins> Version nr2 actuelle du PCB</ins> : 
 
 ![Version nr 2 petit](https://user-images.githubusercontent.com/100481752/164914864-561802e5-a83b-4984-b4ef-683b4d0e7c1b.jpg)
 
-### **Le tout assemble :**
+### <ins>Le tout assemble</ins> :
 
 ![Montage complet](https://user-images.githubusercontent.com/100481752/164914679-70ed3c28-faa0-4327-bbeb-ed4bfe7086b9.jpg)
 
-
-### **La station meteo dans son milieu naturel :**
+### <ins>La station meteo dans son milieu naturel</ins> :
 
 ![Dehors petit](https://user-images.githubusercontent.com/100481752/164914614-a89cea1f-6970-45ec-8343-6f6a54fde1cf.jpg)
-
-
 
 ## **Site Internet nr4 :**
 
