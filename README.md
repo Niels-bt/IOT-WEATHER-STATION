@@ -2,23 +2,23 @@
 IOT WEATHER STATION
 Projet realise par Niels.
 
-Le composant principal utilise dans ce projet est L'esp 8266
-Voici son shematic et la configuration utilisee
+Le composant principal utilise dans ce projet est l'esp 8266: 
+Voici son schématique et la configuration utilisé
 
 ![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
 
-Ce projet consiste a l'aide d'un microcontroleur du type esp8266 et de l'editeur d'arduino de faire une station météo connectée.
-L'esp8266 a été choisi pour son nombre de output pins et son ananlog pin afin de pouvoir y connecter des capteurs analogiques telle que la résistence lumineuse qui y est presente.
-Un controleur de charge lipo a ete ajoute afin de pouvoir rendre le systeme totalement autonome sans le besoin d'avoir a tirer un cable.
-De plus sa configuration permet une connection avec le wifi et le rend donc un IOT accessible à l'aide d'une page web.
+Ce projet consiste à l'aide d'un microcontrôleur du type esp8266 et de l'éditeur Arduino de faire une station météo connectée.
+L'esp8266 a été choisi pour son nombre d'outputs pins et son analog pin afin de pouvoir y connecter des capteurs analogiques tels que la résistance lumineuse qui y est présente.
+Un contrôleur de charge lipo a été ajouté afin de pouvoir rendre le système totalement autonome sans le besoin d'avoir à tirer un câble.
+De plus, sa configuration permet une connexion avec le wifi et le rend donc un IoT accessible à l'aide d'une page web.
 
-Dans un projet futur il est prévu de faire une deuxieme station cette fois destinée a l'interieur avec un ecran afin d'avoir les donnes et de pouvoir la controler sans devoir passer par un ordinateur.
+Dans un projet futur, il est prévu de faire une deuxième station, cette fois destinée à l'intérieur avec un écran afin d'avoir les donnes et de pouvoir la contrôler sans devoir passer par un ordinateur.
 
-Les composants utilises sont
+Les composants utilisés sont
 - une sonde de température immersible pour avoir la température de l'eau 
-- une sonde DHT 22 qui elle permet de capter la température ainsi que l'humiditée présente das l'air
-- deux relais 3V afin de controler les lumieres au bords de la psicine 
-- un module horloge qui permet de suivre l'evolution en fonction du temps et d'aboir l'horaire d'actualisation sur la page web.
+- une sonde DHT 22 qui elle permet de capter la température ainsi que l'humidité présente dans l'air
+- deux relais 3V afin de contrôler les lumières aux bords de la piscine 
+- un module horloge qui permet de suivre l'évolution en fonction du temps et d'avoir l'horaire d'actualisation sur la page web.
 - module pour batterie lipo 1S
 - 2 panneaux solaires ainsi qu'une batterie lipo 3.33V
 
@@ -43,8 +43,8 @@ Les composants utilises sont
 
 ## **Site Internet nr4 :**
 
-Ce site est la version nr4 tu site internet de l'IoT. On remarque une echelle de temperature pour symboliser du froid au chaud.
-On retrouve egalement la temperature eterieur ainsi que de l'humidite. On pourrait donc peut etre y ajoouter un ecart relatif. Ceci pourrait a l'aide du stockage de donnes predire la temperature en fonction des temperatures eterieures. Pour finir on a deu boutons pour allumer et forcer le pompage ainsi que l'allumage des lumieres exterieures. 
+Ce site est la version nr4 tu site internet de l'IoT. On remarque une échelle de température pour symboliser du froid au chaud.
+On retrouve également la température extérieure ainsi que de l'humidité. On pourrait donc peut-être y ajouter un écart relatif. Ceci pourrait à l'aide du stockage de donnes prédire la température en fonction des températures extérieures. Pour finir on a deux boutons pour allumer et forcer le pompage ainsi que l'allumage des lumières extérieures. 
 
 ![ESP8266 2](https://user-images.githubusercontent.com/100481752/163677844-519bb92c-438b-40aa-b267-ea73e048722a.png)
 
