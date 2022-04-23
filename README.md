@@ -2,11 +2,13 @@
 IOT WEATHER STATION
 
 Composant principal utilise
+Esp 8266
 
 ![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
 
 Ce projet consiste a l'aide d'un microcontroleur du type esp8266 et de l'editeur d'arduino de faire une station météo connectée.
 L'esp8266 a été choisi pour son nombre de output pins et son ananlog pin afin de pouvoir y connecter des capteurs analogiques telle que la résistence lumineuse qui y est presente.
+Un controleur de charge lipo a ete ajoute afin de pouvoir rendre le systeme totalement autonome sans le besoin d'avoir a tirer un cable.
 De plus sa configuration permet une connection avec le wifi et le rend donc un IOT accessible à l'aide d'une page web.
 
 Dans un projet futur il est prévu de faire une deuxieme station cette fois destinée a l'interieur avec un ecran afin d'avoir les donnes et de pouvoir la controler sans devoir passer par un ordinateur.
@@ -25,6 +27,15 @@ Version nr1 du PCB
 Version nr2 actuelle du PCB
 
 ![ESP8266 4](https://user-images.githubusercontent.com/100481752/163677942-a786b236-a562-4644-92dd-3f422a5d41e4.jpg)
+
+Le tout assemble
+
+![Montage complet](https://user-images.githubusercontent.com/100481752/164914679-70ed3c28-faa0-4327-bbeb-ed4bfe7086b9.jpg)
+
+La station meteo dans son milieu naturel
+
+![Dehors petit](https://user-images.githubusercontent.com/100481752/164914614-a89cea1f-6970-45ec-8343-6f6a54fde1cf.jpg)
+
 
 
 Site Internet nr4
