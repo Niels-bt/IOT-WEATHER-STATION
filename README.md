@@ -1,19 +1,21 @@
-# IOT-Weather-Station 
-IOT WEATHER STATION
-Projet realise par Niels.
+## IOT-Weather-Station 
 
-Le composant principal utilise dans ce projet est l'esp 8266:                                                     
-Voici son schématique et la configuration utilisé
 
-![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
-
-# Le projet:
+#### Le projet:
 Ce projet consiste à l'aide d'un microcontrôleur du type esp8266 et de l'éditeur Arduino de faire une station météo connectée.
 L'esp8266 a été choisi pour son nombre d'outputs pins et son analog pin afin de pouvoir y connecter des capteurs analogiques tels que la résistance lumineuse qui y est présente.
 Un contrôleur de charge lipo a été ajouté afin de pouvoir rendre le système totalement autonome sans le besoin d'avoir à tirer un câble.
 De plus, sa configuration permet une connexion avec le wifi et le rend donc un IoT accessible à l'aide d'une page web.
 
 Dans un projet futur, il est prévu de faire une deuxième station, cette fois destinée à l'intérieur avec un écran afin d'avoir les donnes et de pouvoir la contrôler sans devoir passer par un ordinateur.
+
+
+Le composant principal utilise dans ce projet est l'esp 8266:                                                     
+Voici son schématique et la configuration utilisé
+
+![image](https://user-images.githubusercontent.com/100481752/163039460-736955d9-84e9-4e3e-8c3a-0fb7a97b7b88.png)
+
+# Les composants
 
 Les composants utilisés sont
 - une sonde de température immersible pour avoir la température de l'eau 
@@ -22,6 +24,10 @@ Les composants utilisés sont
 - un module horloge qui permet de suivre l'évolution en fonction du temps et d'avoir l'horaire d'actualisation sur la page web.
 - module pour batterie lipo 1S
 - 2 panneaux solaires ainsi qu'une batterie lipo 3.33V
+
+A ajouter pour le futur:
+- un voltmetre
+- un ecran sur la station qui affiche la connectivitee
 
 ## **Version nr1 du PCB**
 
